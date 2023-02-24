@@ -1,5 +1,7 @@
 # Evaluation
 
+## Description
+
 Source code of the evaluation of the recommend methods.
 
 Used datasets:
@@ -20,3 +22,11 @@ File description:
  - `preprocessingDBLP_v12.ipynb` : preprocessing DBLP v12 for prototype
  - `preprocessingDBLP_v12_evaloff.ipynb` : preprocessing DBLP v12 for evaloff
  - `preprocessingDBLP_v12_part2.ipynb` : preprocessing DBLP v12 for prototype (part 2)
+ 
+ ## Sources
+
+This evaluation code was developed by Julien Albert, master student in CS at UNamur, during his
+internship at the CETIC, under the supervision of Mathieu Goeminne (CETIC) and Benoît
+Frenay (UNamur).
+
+Master's Thesis : https://researchportal.unamur.be/fr/studentTheses/conception-dun-syst%C3%A8me-de-recommandation-de-litt%C3%A9rature-scientifi
